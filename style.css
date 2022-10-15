@@ -1,0 +1,30 @@
+.calcu{
+    background: rgb(100, 100, 200);
+    border: 3px solid  rgb(200, 100, 100);
+    margin: auto;
+    padding:10px;
+}
+.heading{
+           color: rgb(100, 200,150);
+           text-align: center;
+}
+input[type="button"]{
+    width: 100%;
+    
+    font-size: larger;
+    background-color: rgb(150, 200, 100);
+    font-weight: bold;
+    
+}
+input[type="text"] {
+    width: 100%;
+    border: 1px solid black;
+    font-size: larger;
+    font-weight: bold;
+    font-size: larger;
+    
+
+    font-weight: bold;
+      
+
+}
